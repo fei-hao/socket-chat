@@ -1,2 +1,2 @@
 # socket-chat
-a simple c++ chat application using socket
+![socket-chat](http://blog.feihao.me/images/socket-chat.png)
